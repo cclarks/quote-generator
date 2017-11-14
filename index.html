@@ -1,0 +1,7 @@
+<div class='container text-center'>
+  <h1>Random Quotes Rewritten</h1>
+  <p>These are some random quotes from <a href="https://forismatic.com/" target='_blank'>forismatic.com</a>. I hope you enjoy them!</p>
+  <button class='btn btn-success'>New Quote</button>
+  <a class='btn btn-primary' id='tweet' href='#' target='_blank' role='button'><i class="fa fa-twitter"></i> Tweet the Quote</a>
+  <p id='random_quote'></p>
+</div>
